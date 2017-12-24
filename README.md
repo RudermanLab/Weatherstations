@@ -66,6 +66,6 @@ Ruderman and by additionally providing a link to this GitHub repository
 
 ## Acknowledgments
 
-* Primary data were provided by the Berkeley Earth project (http://www.berkeleyearth.org)
+* Primary data were obtained from the Berkeley Earth project (http://www.berkeleyearth.org)
 
 
