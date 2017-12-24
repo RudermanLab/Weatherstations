@@ -8,7 +8,8 @@ This comma-separated-values file contains cross referencing
 information between identifiers and some basic metadata around weather
 stations. Information in this file was distilled from the files found
 in http://berkeleyearth.lbl.gov/auto/Stations/TAVG/Text/* from the
-Berkeley Earth project (http://www.berkeleyearth.org/).
+Berkeley Earth project (http://www.berkeleyearth.org/),downloaded on
+December 24, 2017.
 
 ### Columns
 
