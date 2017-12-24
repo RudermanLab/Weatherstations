@@ -46,9 +46,6 @@ different records were found to contain the same data, in which
 case the records would be merged."
 ```
 
-## Contributing
-
-Please email any corrections or suggestions to ruderman@usc.edu
 
 ## Authors
 
