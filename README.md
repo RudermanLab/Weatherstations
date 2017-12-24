@@ -44,6 +44,10 @@ occurs, the identifiers will be separated by the pipe symbol
 "identification of the station changed during its history or if two
 different records were found to contain the same data, in which
 case the records would be merged."
+
+There are sometimes multiple entries for weather stations in the
+Berekley data. For example Laguardia airport corresponds both to
+Berkeley IDs 167589 and 173869.
 ```
 
 
